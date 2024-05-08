@@ -14,7 +14,7 @@ yolo task=detect mode=predict model="best.pt" source="image.jpg" --device=cpu
 # Hướng dẫn sử dụng
 Download thư mục NLCS
     Cách 1:
-        Mở thư mục double click vào file main.exe
+        Mở thư mục double click vào file main.exe hoặc shotcut
         Giao diện hiển thị và sử dụng
         Các chức năng: Chọn hình ảnh, chọn lại hình ảnh khác, OK(Thực hiện dự đoán), Cancel(Tắt chương trình)
     Cách 2:
